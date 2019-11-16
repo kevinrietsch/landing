@@ -1,0 +1,12 @@
+.container {
+    width: 900px;
+    height: auto;
+    margin: auto;
+    padding : 30px;
+}
+
+.text-center {
+  text-align : center;
+}
+
+
